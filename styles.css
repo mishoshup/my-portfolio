@@ -1,6 +1,7 @@
-* {
+/* * {
     outline: 2px solid red;
-}
+    font-family: 'Roboto';
+} */
 
 html, body {
     margin: 0;
@@ -13,7 +14,7 @@ html, body {
     display: flex;
     align-items: center;
     justify-content: space-between;
-    padding: 10px 5%;
+    padding: 1px 5%;
     background-color: #f8f8f8;
 }
 
